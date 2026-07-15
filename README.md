@@ -1,7 +1,7 @@
 
-  # Design Website for Oprah
+  # Design Website for Women's Wholeness
 
-  This is a code bundle for Design Website for Oprah. The original project is available at https://www.figma.com/design/NZg81WRRZcC9nnIseHIYmE/Design-Website-for-Oprah.
+  This is a code bundle for Design Website for Women's Wholeness. The original project is available at https://www.figma.com/design/NZg81WRRZcC9nnIseHIYmE/Design-Website-for-Oprah.
 
   ## Running the code
 
